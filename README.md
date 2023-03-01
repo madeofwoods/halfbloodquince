@@ -21,6 +21,6 @@ I'm a frontend developer in development, with a passion for design and data visu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,py,d3,firebase,matlab,github,figma&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,react,ts,py,d3,firebase,matlab,github,figma&perline=9" />
   </a>
 </p>
